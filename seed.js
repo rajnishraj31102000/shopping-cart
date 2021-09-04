@@ -13,7 +13,7 @@ const products = [
         name: "Macbook Pro",
         img: "https://images.unsplash.com/photo-1496181133206-80ce9b88a853?ixid=MnwxMjA3fDB8MHxzZWFyY2h8Mnx8bWFjYm9va3xlbnwwfHwwfHw%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=500&q=60",
         price: 900000,
-        desc:"The new Apple MacBook Pro powered by the new M1 processor by Apple sets an incredible new standard. This applies to both performance and battery life. This machine can easily take on photo and video editing in any of the popular applications like Adobe Lightroom Classic, Photoshop, Premiere Pro, DaVinci Resolve, and more. Amidst this kind of performance, you can also expect exceptional battery life, with almost 6 hours of continuous editing and nearly 18 hours if you just stick to the normal workloads. There's hardly anything to fault here, and we're talking about the base, entry-level machine! "
+        desc:"The new Apple MacBook Pro powered by the new M1 processor by Apple sets an incredible new standard. This applies to both performance and battery life. This machine can easily take on photo and video editing in any of the popular applications like Adobe Lightroom Classi Photoshop Premiere Pro DaVinci Resolve and more. "
     },
     {
         name: "Titan Watch",
@@ -31,22 +31,22 @@ const products = [
         name: "Rolex",
         img: "https://images.unsplash.com/photo-1523170335258-f5ed11844a49?ixid=MnwxMjA3fDB8MHxzZWFyY2h8OXx8d2F0Y2h8ZW58MHx8MHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=500&q=60",
         price: 10000,
-        desc:"Wearing a Rolex watch enables entry into a world of unlimited possibilities. Rolex's story began when founder Hans Wilsdorf created the first waterproof wristwatch – the Oyster – and developed into a range of timepieces that have become icons of watchmaking. " 
+        desc:"Wearing a Rolex watch enables entry into a world of unlimited possibilities. Rolex story began when founder Hans Wilsdorf created the first waterproof wristwatch  the Oyster  and developed into a range of timepieces that have become icons of watchmaking. " 
     },
     {
         name: "BoAt Headphones",
         img: "https://images.unsplash.com/photo-1505740420928-5e560c06d30e?ixid=MnwxMjA3fDB8MHxzZWFyY2h8MXx8aGVhZHBob25lc3xlbnwwfHwwfHw%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=500&q=60",
         price: 10000,
-        desc:"boAt Bass Heads 225 polished metal earphones are designed to give you an experience that no other brand can match. It has an incredible sonic clarity with  With tangle-free flat cables, you are expected to be hassle-free."
+        desc:"boAt Bass Heads 225 polished metal earphones are designed to give you an experience that no other brand can match. It has an incredible sonic clarity with  With tangle-free flat cables"
     },
     {
         name: "Drone",
         img: "https://images.unsplash.com/photo-1508614589041-895b88991e3e?ixid=MnwxMjA3fDB8MHxzZWFyY2h8OXx8ZHJvbmV8ZW58MHx8MHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=500&q=60",
         price: 10000,
-        desc:"Drones are commonly referred to as Unmanned Aerial Vehicles (UAV)whereas the entire system that allows a drone to function is a UAS (Unmanned Aerial System.) The UAV is the heart of the UAS and possesses fixed wings or either a single or multi-rotary build for flight. Lighter-than-air UAVs, such as blimps and balloons, and small “Flapping Wing” UAVs also exist. "
+        desc:"Drones are commonly referred to as Unmanned Aerial Vehicles whereas the entire system that allows a drone to function is a UAS The UAV is the heart of the UAS and possesses fixed wings or either a single or multi-rotary build for flight. "
     }
 
-]
+];
 
 const seedDB = async ()=>{
     
