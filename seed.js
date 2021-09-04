@@ -37,7 +37,7 @@ const products = [
         name: "BoAt Headphones",
         img: "https://images.unsplash.com/photo-1505740420928-5e560c06d30e?ixid=MnwxMjA3fDB8MHxzZWFyY2h8MXx8aGVhZHBob25lc3xlbnwwfHwwfHw%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=500&q=60",
         price: 10000,
-        desc:"boAt Bass Heads 225 polished metal earphones are designed to give you an experience that no other brand can match. It has an incredible sonic clarity with "super extra bass". With tangle-free flat cables, you are expected to be hassle-free."
+        desc:"boAt Bass Heads 225 polished metal earphones are designed to give you an experience that no other brand can match. It has an incredible sonic clarity with  With tangle-free flat cables, you are expected to be hassle-free."
     },
     {
         name: "Drone",
