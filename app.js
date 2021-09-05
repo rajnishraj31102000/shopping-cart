@@ -38,7 +38,7 @@ mongoose.connect(process.env.DB_URL,
     });
 
 
-  seedDB();
+ // seedDB();
 
 app.set('view engine', 'ejs');
 app.set('views', path.join(__dirname, '/views'));
